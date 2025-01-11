@@ -1,0 +1,13 @@
+export { default as Img } from "./Image/Img";
+export { default as NavLink } from "./Link/NavLink";
+export { default as NavLinkDropdown } from "./Link/NavlinkDropdown";
+export { default as Header } from "./Header/Header";
+export { default as Button } from "./Button/Button";
+export { default as Input } from "./Form/Input";
+export { default as Select } from "./Form/Select";
+export { default as SelectSearch } from "./Form/SelectSearch";
+export { default as Table } from "./Table/Table";
+export { default as Modal } from "./Modal/Modal";
+export { default as CardDashboard } from "./Card/CardDashboard";
+export { default as Alert } from "./Alert/Alert";
+export { default as LoadingScreen } from "./Loading/LoadingScreen";
